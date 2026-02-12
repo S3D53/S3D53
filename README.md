@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>.Full-stack web applications (frontend + backend)<br><br>👯 I’m looking to collaborate on<br>.Open-source full-stack projects<br>.Beginner-friendly DevOps projects (CI/CD, automation, cloud)<br><br>🤝 I’m looking for help with<br>.Cloud deployment and infrastructure (AWS / Azure / GCP basics)<br><br>🌱 I’m currently learning<br>.System design and software architecture<br><br>💬 Ask me about<br>.Learning programming as a student / self-learner<br><br>⚡ Fun fact<br>.I enjoy turning complex problems into simple solutions 🚀<br>
+🔭 I’m currently working on<br>my pfe project<br><br>👯 I’m looking to collaborate on<br>.Open-source full-stack projects<br>.Beginner-friendly DevOps projects (CI/CD, automation, cloud)<br><br>🤝 I’m looking for help with<br>.Cloud deployment and infrastructure (AWS / Azure / GCP basics)<br><br>🌱 I’m currently learning<br>.System design and software architecture<br><br>💬 Ask me about<br>.Learning programming as a student / self-learner<br><br>⚡ Fun fact<br>.I enjoy turning complex problems into simple solutions 🚀<br>
 
 
 ## 🌐 Socials:
