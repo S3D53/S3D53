@@ -1,5 +1,5 @@
 # About Me:
-Currently looking for work<br><br>👯 I’m looking to collaborate on<br>.Open-source full-stack projects<br>.Beginner-friendly DevOps projects (CI/CD, automation, cloud)<br><br>Fun fact<br>.I enjoy turning complex problems into simple solutions 🚀<br>
+Currently looking for work<br><br>👯 I’m looking to collaborate on<br>.Open-source full-stack projects<br>.DevOps projects (CI/CD, automation, cloud)<br><br>Fun fact<br>.I enjoy turning complex problems into simple solutions 🚀<br>
 
 
 ## 🌐 Socials:
